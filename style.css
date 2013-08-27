@@ -70,6 +70,9 @@ body{font-family:Economica,sans-serif;color:#232b2b;background:#171624;font-size
 .site-nav a:hover,.site-nav a:focus,.site-nav a:active{color:#fff}
 .downloads{float:right}
 .fork{float:left}
+.dev { float: right;}
+.dev a { text-decoration: none; color: #1BBECC; font-size: 1em; letter-spacing: 1px}
+.dev a:hover, .dev a:active { color:#0B8C91}
 #header li a{color:#FFF;-moz-border-radius:2px;-webkit-border-radius:2px;-o-border-radius:2px;-ms-border-radius:2px;-khtml-border-radius:2px;border-radius:2px;-moz-box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0 3px 7px rgba(0,0,0,0.7);-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0 3px 7px rgba(0,0,0,0.7);-o-box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0 3px 7px rgba(0,0,0,0.7);box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0 3px 7px rgba(0,0,0,0.7);background-color:#1bbecc;padding:1em 2em;margin-top:6px;line-height:14px;font-size:14px;display:inline-block;text-align:center}
 #header li a:hover{background-color:#0b8c91;-moz-box-shadow:inset 0 1px 1px rgba(0,0,0,0.2),0 1px 0 rgba(0,0,0,0);-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,0.2),0 1px 0 rgba(0,0,0,0);-o-box-shadow:inset 0 1px 1px rgba(0,0,0,0.2),0 1px 0 rgba(0,0,0,0);box-shadow:inset 0 1px 1px rgba(0,0,0,0.2),0 1px 0 rgba(0,0,0,0)}
 .text{max-width:960px;display:block;margin:1em auto;color:#b1b1b1;padding-bottom:1.2em}
