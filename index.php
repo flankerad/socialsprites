@@ -6,10 +6,6 @@
   <meta name='description' content='Free Css Sprite Social Icon pack of 5 icons if you like it or want more like this '>
 </head>
 
-<header>
-  
-</header>
-
 <body> 
 
  <div id="main">
