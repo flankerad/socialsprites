@@ -88,3 +88,6 @@ body{font-family:Economica,sans-serif;color:#232b2b;background:#171624;font-size
 #t:hover{background-position:74.9% 102%}
 #g{background-image:url(img/128x128.png);background-position:100% 0}
 #g:hover{background-position:100% 98%}
+.author{font-size:100%;text-align:center;display:block;padding-top:1em;clear:both;padding-top: 2%;color: #fff}
+.author a{text-decoration:none;color:#00a8eb}
+.author a:hover{text-decoration:none;color:#fff}
